@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
     //comment danni
+    //danni
 =======
 using namespace std;
 >>>>>>> e612338566291d5e706b5d175f9dbca99eb10df7
